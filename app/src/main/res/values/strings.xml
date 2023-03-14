@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Work24HR</string>
+    <string name="image_chooser">File Chooser</string>
+    <string name="error_message">Error.Please try again</string>
+    <string name="reload">Reload</string>
+
+    //Headings
+    <string name="heading_one">Welcome to Work24HR</string>
+    <string name="heading_two">Create an Account</string>
+    <string name="heading_three">Complete Profile</string>
+    <string name="heading_fourth">Search Job / Internship</string>
+
+    //Description
+    <string name="desc_one">An intuitive HR platform dedicated to get you hired, be it job search or intern</string>
+    <string name="desc_two">To enjoy the complete feature of the app, you need to create an account, the process is simple and straight forward</string>
+    <string name="desc_three">Complete your profile with your CV, make it easier for employers to find you</string>
+    <string name="desc_fourth">Filter through Jobs with our advanced search with different categories. Apply and get hired!</string>
+
+
+</resources>
