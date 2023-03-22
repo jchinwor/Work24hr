@@ -1,4 +1,4 @@
-package com.example.cleanupnaija;
+package com.work24hr.cleanupnaija;
 
 import org.junit.Test;
 

@@ -1,13 +1,11 @@
-package com.example.cleanupnaija;
+package com.work24hr.cleanupnaija;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.Manifest;
-import android.app.AlertDialog;
 import android.app.DownloadManager;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.net.ConnectivityManager;

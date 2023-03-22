@@ -1,4 +1,4 @@
-package com.example.cleanupnaija;
+package com.work24hr.cleanupnaija;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;

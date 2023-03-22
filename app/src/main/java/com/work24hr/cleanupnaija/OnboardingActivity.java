@@ -1,4 +1,4 @@
-package com.example.cleanupnaija;
+package com.work24hr.cleanupnaija;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
@@ -33,14 +33,14 @@ public class OnboardingActivity extends AppCompatActivity {
 
         // when this activity is about to be launch we need to check if its openened before or not
 
-//        if (restorePrefData()) {
-//
-//            Intent intent = new Intent(OnboardingActivity.this, SplashActivity.class);
-//            startActivity(intent);
-//            finish();
-//
-//
-//        }
+        if (restorePrefData()) {
+
+            Intent intent = new Intent(OnboardingActivity.this, SplashActivity.class);
+            startActivity(intent);
+            finish();
+
+
+        }
 
         backbtn = findViewById(R.id.backbtn);
         nextbtn = findViewById(R.id.nextbtn);
